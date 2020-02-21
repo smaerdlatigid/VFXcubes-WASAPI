@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VisualEffectSamples.unity
+    guid: fd4b4253a3a40034cb965686d7d504c0
+  - enabled: 1
+    path: Assets/Samples/UnityLogo/UnityLogo.unity
+    guid: 2b64709540d56cd4a9e0714b6197cc60
+  - enabled: 1
+    path: Assets/Samples/MorphingFace/MorphingFace.unity
+    guid: c901e59c0751f42429a1b496442ea30d
+  - enabled: 1
+    path: Assets/Samples/Butterflies/Butterflies.unity
+    guid: 6932026508c98594bbb83a63a56beccc
+  - enabled: 1
+    path: Assets/Samples/GrassWind/GrassWind.unity
+    guid: 61f1ef70099d9034881b5619b161a5c6
+  - enabled: 1
+    path: Assets/Samples/Volumetric/Volumetric.unity
+    guid: 361436e556dc53a4ca577abe64a63fec
+  - enabled: 1
+    path: Assets/Samples/Portal/Portal.unity
+    guid: d23d59905ac5645468dd8e5c0251903a
+  - enabled: 1
+    path: Assets/Samples/ARRadar/ARRadar.unity
+    guid: 141776114069f3b46a5bfefef9806e4f
+  - enabled: 1
+    path: Assets/Samples/VoxelizedTerrain/VoxelizedTerrain.unity
+    guid: b19554f49217d8d4e88c534de1d04cf3
+  - enabled: 1
+    path: Assets/Samples/GenieMagicLamp/Genie.unity
+    guid: fd03c69013ee6384f8b80913bb8e0b83
+  - enabled: 1
+    path: Assets/Samples/SpaceshipHoloTable/SpaceshipHoloTable.unity
+    guid: 4665d3b54597c7747b7d9628cf59aeca
+  - enabled: 1
+    path: Assets/Samples/EllenHologram/EllenHologram.unity
+    guid: b45740c987214164db0d14e53209d04e
+  - enabled: 1
+    path: Assets/Samples/BonFire/BonFire.unity
+    guid: 2b8109855c7f21e4793eebc47514c7c5
+  - enabled: 1
+    path: Assets/Samples/RibbonPack/RibbonPack.unity
+    guid: bdd4ae2aaef5a394ea08b79de2d71aa0
+  m_configObjects: {}
