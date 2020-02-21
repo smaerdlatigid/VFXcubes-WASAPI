@@ -1,4 +1,4 @@
 # AudioReactiveVFX
-WASAPI Audio reactive particle effect made with the Unity VFX Graph and HD Render Pipeline
+An audio reactive particle effect made with the Unity VFX Graph, HD Render Pipeline and WASAPI
 
 ![](vfx_cubes.gif)
